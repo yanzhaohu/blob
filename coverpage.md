@@ -8,7 +8,7 @@
 
 - 建设中...
 
-[GitLib](https://github.com/yanzhaohu/blob)
+[GitHub](https://github.com/yanzhaohu/blob)
 [开始](README.md)
 
 
